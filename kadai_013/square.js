@@ -1,5 +1,5 @@
 const culcSquare = (num) => {
-  console.log(num ** 2);
+  return num ** 2;
 }
 
-culcSquare(10);
+console.log(culcSquare(10));
